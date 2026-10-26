@@ -14,7 +14,7 @@ python scaffold.py
 - [x] **2.** split_dataset
 - [x] **3.** split_score
 - [x] **4.** best_split
-- [ ] **5.** should_stop
+- [x] **5.** should_stop
 - [ ] **6.** leaf_prediction
 - [ ] **7.** build_tree
 - [ ] **8.** predict_example_tree
