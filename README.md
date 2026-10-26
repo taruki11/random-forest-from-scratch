@@ -21,7 +21,7 @@ python scaffold.py
 - [x] **9.** predict_tree
 - [x] **10.** bootstrap_sample
 - [x] **11.** feature_subset
-- [ ] **12.** train_forest
+- [x] **12.** train_forest
 - [ ] **13.** combine_predictions
 - [ ] **14.** predict_forest
 - [ ] **15.** accuracy
